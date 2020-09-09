@@ -1,6 +1,6 @@
 # [ See Project ](https://nbviewer.jupyter.org/github/danielrichardtorres/cia-data-with-sql/blob/master/Basics.ipynb)
 
-## [Back to Portfolio](danieltorres.tech)
+## [Back to Portfolio](https://danieltorres.tech)
 
 This is a project showcasing my data science skills. In this project I use python to train a machine learning model. 
 
