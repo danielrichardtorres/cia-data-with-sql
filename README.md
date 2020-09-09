@@ -1,4 +1,4 @@
-# [ See Project ](https://nbviewer.jupyter.org/github/danielrichardtorres/handwritten-digit-classifier/blob/master/Basics.ipynb)
+# [ See Project ](https://nbviewer.jupyter.org/github/danielrichardtorres/cia-data-with-sql/blob/master/Basics.ipynb)
 
 ## [Back to Portfolio](danieltorres.tech)
 
